@@ -1,4 +1,4 @@
-# CAMAPI Annotate (Qt 5.15.2, C++17, qmake)
+# VideumATT - Video Annotation Train Tool 
 
 Приложение для ручной аннотации изображений и запуска обучения детектора объектов.
 
